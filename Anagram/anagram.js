@@ -26,9 +26,3 @@ function anagram(s) {
 
     return changes;
 }
-
-// Example
-console.log(anagram("aaabbb")); // Expected 3
-console.log(anagram("ab"));     // Expected 1
-console.log(anagram("abc"));    // Expected -1
-console.log(anagram("mnop"));   // Expected 2
