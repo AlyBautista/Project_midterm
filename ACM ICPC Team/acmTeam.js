@@ -26,6 +26,3 @@ function acmTeam(topic) {
     return [maxTopics, teamCount];
 }
 
-
-// Example 
-console.log(acmTeam(["10101", "11100", "11010", "00101"])); // Output: [5, 2]
