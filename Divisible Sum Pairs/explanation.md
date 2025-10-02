@@ -1,0 +1,1 @@
+I start with a counter set to 0. Then, I loop through the array using two nested loops to check every unique pair of numbers. For each pair, I add them together and check if their sum is divisible by k. If it is, I increase the counter. Finally, I return the total count of such pairs.

@@ -1,0 +1,1 @@
+I wrote the gameOfStones function to decide the winner based on the number of stones. If n % 7 is 0 or 1, the second player wins; otherwise, the first player wins.

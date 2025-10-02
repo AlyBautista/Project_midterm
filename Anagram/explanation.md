@@ -1,0 +1,2 @@
+The anagram function calculates the minimum number of character changes needed to make the two halves of a string anagrams of each other. 
+If the string has odd length, it returns -1 because it cannot be split evenly. It counts characters in the first half, then checks the second half, increasing the change count for any characters not matched. Finally, it returns the total number of changes required.

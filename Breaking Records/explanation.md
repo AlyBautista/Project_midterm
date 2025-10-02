@@ -1,0 +1,1 @@
+I set the first score as both the initial minimum and maximum. Then I loop through the rest of the scores. Each time a new score is higher than the maximum, I update the maximum and increase the max counter. Each time a new score is lower than the minimum, I update the minimum and increase the min counter. Finally, I return both counters in an array.

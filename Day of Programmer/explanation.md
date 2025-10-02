@@ -1,0 +1,1 @@
+First, i handled 1918 as a special casei. Then, i checked leap year rules for Julian and Gregorian  calendars. if it’s a leap year → the Day of the Programmer is 12th September. Otherwise → it’s 13th September.

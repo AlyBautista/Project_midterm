@@ -1,0 +1,1 @@
+I start counters for apples and oranges. For each apple, I calculate where it lands by adding its distance to the apple tree position, then check if it falls within the house range. I do the same for each orange using the orange tree position. Finally, I print the number of apples and oranges that land on the house.

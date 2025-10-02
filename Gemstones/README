@@ -1,0 +1,3 @@
+The function finds elements (letters) that appear in every string of the array. 
+It starts with a set of characters from the first string, then intersects it with characters from each subsequent string. 
+After processing all strings, the remaining set contains only the common characters. Finally, it returns the count of these gemstones.

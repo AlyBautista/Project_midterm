@@ -1,0 +1,1 @@
+I start with a variable sum set to 0. Then I loop through each element in the array and keep adding it to sum. After the loop finishes, I return the total sum.

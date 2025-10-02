@@ -1,0 +1,1 @@
+I calculate how many page turns it takes from the front by dividing p by 2. Then I calculate how many page turns it takes from the back by subtracting that same value from n / 2. Finally, I return the smaller of the two values, since the minimum number of turns is the answer.

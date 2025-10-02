@@ -1,0 +1,1 @@
+I solved the Luck Balance problem by adding all unimportant contests, sorting important ones in descending order, winning only the largest k for maximum luck, and subtracting the rest.

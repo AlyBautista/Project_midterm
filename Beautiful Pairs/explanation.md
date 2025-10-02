@@ -1,0 +1,1 @@
+I made the beautifulPairs function to count how many matching pairs exist between arrays A and B. I used a used array to make sure each element in B is only matched once. After counting, if all elements match, I subtract one because one pair must be changed, otherwise, I add one since we can increase the pairs.

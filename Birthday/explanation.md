@@ -1,0 +1,1 @@
+I start with a counter set to 0. Then I loop through the array, checking each segment of length m. For each segment, I calculate the sum of its numbers. If the sum equals d, I increase the counter. Finally, I return the total count of ways.

@@ -1,0 +1,1 @@
+I wrote the bigSorting function to sort very large numbers stored as strings. I used bubble sort, comparing first by string length and then by value. If one number is longer or greater, I swap them. In the end, the array comes out sorted in ascending order.

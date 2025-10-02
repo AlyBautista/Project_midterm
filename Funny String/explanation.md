@@ -1,0 +1,2 @@
+The function compares the absolute differences between adjacent characters in the string and in its reverse. 
+If all corresponding differences are equal, the string is "Funny". If any difference mismatches, it returns "Not Funny".

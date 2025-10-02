@@ -1,0 +1,1 @@
+The function converts the number into a string to check each digit. For every digit, if it is not zero and it divides the number evenly, the counter increases. Finally, it returns how many digits of the number divide it exactly.

@@ -1,0 +1,1 @@
+The function calculates how many chocolates I can eat with n money, each costing c, and a promotion that gives one free chocolate for every m wrappers. It first buys as many chocolates as possible, keeping track of wrappers. Then it repeatedly exchanges wrappers for free chocolates until no more exchanges are possible, and finally returns the total number of chocolates eaten.

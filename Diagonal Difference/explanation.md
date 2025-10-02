@@ -1,0 +1,1 @@
+I create two variables to store the sums of the primary and secondary diagonals. Then I loop through the matrix, adding the left-to-right diagonal values to primaryDiagonal and the right-to-left diagonal values to secondaryDiagonal. Finally, I return the absolute difference between the two sums.

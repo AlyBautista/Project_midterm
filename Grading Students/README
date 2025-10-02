@@ -1,0 +1,1 @@
+I create an empty list to store the results. For each grade, if it is less than 38, I leave it unchanged. If it is 38 or higher, I round it up to the next multiple of 5. If the difference is less than 3, I replace the grade with that multiple, otherwise I keep it the same. Finally, I return the list of results.

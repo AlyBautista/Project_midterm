@@ -1,0 +1,1 @@
+The gameOfThrones function checks if the characters of a string can be rearranged to form a palindrome. It counts the occurrences of each character and then counts how many characters appear an odd number of times. If more than one character has an odd count, it returns "NO"; otherwise, it returns "YES".

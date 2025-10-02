@@ -1,0 +1,1 @@
+I made the flippingBits function to flip all 32 bits of a number. I first got a mask of 32 ones using 2^32 - 1, then subtracted the input number n from it. This gives the number with all bits flipped.

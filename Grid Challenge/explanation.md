@@ -1,0 +1,1 @@
+I solved the gridChallenge problem by first sorting each row alphabetically. Then I checked column by column to ensure every character was in non-decreasing order; if all columns pass, return "YES", otherwise "NO".

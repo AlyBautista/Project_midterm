@@ -1,0 +1,1 @@
+I created the closestNumbers function to find pairs of numbers with the smallest difference. First, I sorted the array, then calculated the minimum difference between consecutive numbers. Finally, I collected all pairs with that same difference and returned them.

@@ -1,0 +1,1 @@
+The function rotates the array a to the right by k positions. It creates a new array where each element from the original is placed at its new rotated index. Then, for each index in queries, it retrieves the corresponding element from the rotated array and stores it in the result. Finally, it returns the result array.

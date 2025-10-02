@@ -1,0 +1,1 @@
+The function scans the string for the substring "010". Each time it finds one, it counts a required change and skips ahead by 3 characters to avoid overlap. At the end, it returns the total number of changes needed to remove all "010" patterns.

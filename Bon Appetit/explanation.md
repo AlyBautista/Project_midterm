@@ -1,0 +1,2 @@
+I calculated the total cost of all items except the one Anna didn’t eat, divided it by 2 for her share, 
+then checked if Brian charged her correctly. If yes, print "Bon Appetit", otherwise print the extra amount she paid.

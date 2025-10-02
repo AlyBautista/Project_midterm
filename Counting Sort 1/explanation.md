@@ -1,0 +1,1 @@
+I made the countingSort function to count how many times each number appears in the array. I created a frequency array of size 100, then looped through the input and increased the count for each number. Finally, I returned the frequency array.

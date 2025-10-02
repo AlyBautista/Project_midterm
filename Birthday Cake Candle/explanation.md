@@ -1,0 +1,1 @@
+i start with variables to track the highest candle and the count. First, I loop through the array to find the tallest candle height. Then, I loop again to count how many candles match that height. Finally, I return the count.

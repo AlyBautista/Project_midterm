@@ -1,0 +1,1 @@
+This function calculates a very large factorial, it uses BigInt to multiply numbers from 1 up to n, then prints the result as a string

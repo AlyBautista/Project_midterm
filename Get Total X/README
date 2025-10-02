@@ -1,0 +1,1 @@
+I start with a counter set to 0. Then I loop through all numbers between the largest number in a and the smallest number in b. For each number, I check if it is a multiple of every element in a and also a factor of every element in b. If both conditions are true, I increase the counter. Finally, I return the counter.
