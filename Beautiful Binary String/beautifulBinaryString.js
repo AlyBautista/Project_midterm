@@ -14,11 +14,3 @@ function beautifulBinaryString(b) {
     return changes;
 }
 
-//Example
-let test1 = "0101010";   // Expected 2
-let test2 = "01100";     // Expected 0
-let test3 = "0100101010"; // Expected 3
-
-console.log(beautifulBinaryString(test1));
-console.log(beautifulBinaryString(test2));
-console.log(beautifulBinaryString(test3));
