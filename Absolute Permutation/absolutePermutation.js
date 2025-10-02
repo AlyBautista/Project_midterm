@@ -23,8 +23,3 @@ function absolutePermutation(n, k) {
     return result;
 }
 
-// Example 
-console.log(absolutePermutation(4, 2)); // Output: [3, 4, 1, 2]
-console.log(absolutePermutation(2, 1)); // Output: [2, 1]
-console.log(absolutePermutation(3, 0)); // Output: [1, 2, 3]
-console.log(absolutePermutation(3, 2)); // Output: [-1]
